@@ -1,0 +1,226 @@
+2025-03-31 20:24:54.330 [main] INFO  org.example.Main - ASdasdasd
+2025-03-31 20:24:54.332 [main] INFO  org.example.Main - Первый, второй, третий, четвертый, пятый
+2025-03-31 20:29:25.401 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 20:29:25.404 [main] INFO  org.example.Main - Первый, второй, третий, четвертый, пятый
+2025-03-31 20:29:25.404 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 20:29:25.405 [main] INFO  org.example.Main - Первый
+2025-03-31 20:29:25.405 [main] INFO  org.example.Main - Второй
+2025-03-31 20:29:25.405 [main] INFO  org.example.Main - Третий
+2025-03-31 20:29:25.405 [main] INFO  org.example.Main - Четвертый
+2025-03-31 20:29:25.405 [main] INFO  org.example.Main - Пятый
+2025-03-31 20:30:39.675 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 20:30:39.677 [main] INFO  org.example.Main - Первый, второй, третий, четвертый, пятый
+2025-03-31 20:30:39.677 [main] INFO  org.example.Main - Первый, второй, третий, четвертый, пятый
+2025-03-31 20:30:39.678 [main] INFO  org.example.Main - //////////////
+2025-03-31 20:30:39.678 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 20:30:39.678 [main] INFO  org.example.Main - Первый
+2025-03-31 20:30:39.678 [main] INFO  org.example.Main - Второй
+2025-03-31 20:30:39.678 [main] INFO  org.example.Main - Третий
+2025-03-31 20:30:39.679 [main] INFO  org.example.Main - Четвертый
+2025-03-31 20:30:39.679 [main] INFO  org.example.Main - Пятый
+2025-03-31 20:30:39.679 [main] INFO  org.example.Main - Первый
+2025-03-31 20:31:11.254 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 20:31:11.256 [main] INFO  org.example.Main - Первый, второй, третий, четвертый, пятый
+2025-03-31 20:31:11.257 [main] INFO  org.example.Main - Первый элемент: Первый, второй, третий, четвертый, пятый
+2025-03-31 20:31:11.257 [main] INFO  org.example.Main - //////////////
+2025-03-31 20:31:11.257 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 20:31:11.257 [main] INFO  org.example.Main - Первый
+2025-03-31 20:31:11.257 [main] INFO  org.example.Main - Второй
+2025-03-31 20:31:11.258 [main] INFO  org.example.Main - Третий
+2025-03-31 20:31:11.258 [main] INFO  org.example.Main - Четвертый
+2025-03-31 20:31:11.258 [main] INFO  org.example.Main - Пятый
+2025-03-31 20:31:11.258 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 20:32:15.256 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 20:32:15.258 [main] INFO  org.example.Main - Первый
+2025-03-31 20:32:15.259 [main] INFO  org.example.Main - второй
+2025-03-31 20:32:15.259 [main] INFO  org.example.Main - третий
+2025-03-31 20:32:15.259 [main] INFO  org.example.Main - четвертый
+2025-03-31 20:32:15.259 [main] INFO  org.example.Main - пятый
+2025-03-31 20:32:15.259 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 20:32:15.260 [main] INFO  org.example.Main - //////////////
+2025-03-31 20:32:15.260 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 20:32:15.260 [main] INFO  org.example.Main - Первый
+2025-03-31 20:32:15.260 [main] INFO  org.example.Main - Второй
+2025-03-31 20:32:15.260 [main] INFO  org.example.Main - Третий
+2025-03-31 20:32:15.260 [main] INFO  org.example.Main - Четвертый
+2025-03-31 20:32:15.261 [main] INFO  org.example.Main - Пятый
+2025-03-31 20:32:15.261 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 20:33:07.384 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 20:33:07.386 [main] INFO  org.example.Main - Первый
+2025-03-31 20:33:07.386 [main] INFO  org.example.Main - второй
+2025-03-31 20:33:07.386 [main] INFO  org.example.Main - третий
+2025-03-31 20:33:07.387 [main] INFO  org.example.Main - четвертый
+2025-03-31 20:33:07.387 [main] INFO  org.example.Main - пятый
+2025-03-31 20:33:07.387 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 20:33:07.387 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 20:33:07.387 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 20:33:07.388 [main] INFO  org.example.Main - Первый
+2025-03-31 20:33:07.388 [main] INFO  org.example.Main - Второй
+2025-03-31 20:33:07.388 [main] INFO  org.example.Main - Третий
+2025-03-31 20:33:07.388 [main] INFO  org.example.Main - Четвертый
+2025-03-31 20:33:07.388 [main] INFO  org.example.Main - Пятый
+2025-03-31 20:33:07.388 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 20:33:14.846 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 20:33:14.849 [main] INFO  org.example.Main - Первый
+2025-03-31 20:33:14.849 [main] INFO  org.example.Main - второй
+2025-03-31 20:33:14.849 [main] INFO  org.example.Main - третий
+2025-03-31 20:33:14.849 [main] INFO  org.example.Main - четвертый
+2025-03-31 20:33:14.850 [main] INFO  org.example.Main - пятый
+2025-03-31 20:33:14.850 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 20:33:14.850 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 20:33:14.850 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 20:33:14.850 [main] INFO  org.example.Main - Первый
+2025-03-31 20:33:14.850 [main] INFO  org.example.Main - Второй
+2025-03-31 20:33:14.850 [main] INFO  org.example.Main - Третий
+2025-03-31 20:33:14.850 [main] INFO  org.example.Main - Четвертый
+2025-03-31 20:33:14.851 [main] INFO  org.example.Main - Пятый
+2025-03-31 20:33:14.851 [main] INFO  org.example.Main - Первый элемент: Пятый
+2025-03-31 20:35:29.893 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 20:35:29.895 [main] INFO  org.example.Main - Первый
+2025-03-31 20:35:29.895 [main] INFO  org.example.Main - второй
+2025-03-31 20:35:29.895 [main] INFO  org.example.Main - третий
+2025-03-31 20:35:29.895 [main] INFO  org.example.Main - четвертый
+2025-03-31 20:35:29.895 [main] INFO  org.example.Main - пятый
+2025-03-31 20:35:29.896 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 20:35:29.896 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 20:35:29.896 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 20:35:29.896 [main] INFO  org.example.Main - Первый
+2025-03-31 20:35:29.896 [main] INFO  org.example.Main - второй
+2025-03-31 20:35:29.897 [main] INFO  org.example.Main - третий
+2025-03-31 20:35:29.897 [main] INFO  org.example.Main - четвертый
+2025-03-31 20:35:29.897 [main] INFO  org.example.Main - пятый
+2025-03-31 20:35:29.897 [main] INFO  org.example.Main - Первый элемент: пятый
+2025-03-31 21:41:47.006 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 21:41:47.010 [main] INFO  org.example.Main - Первый
+2025-03-31 21:41:47.010 [main] INFO  org.example.Main - второй
+2025-03-31 21:41:47.011 [main] INFO  org.example.Main - третий
+2025-03-31 21:41:47.011 [main] INFO  org.example.Main - четвертый
+2025-03-31 21:41:47.011 [main] INFO  org.example.Main - пятый
+2025-03-31 21:41:47.011 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 21:41:47.012 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:41:47.012 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 21:41:47.013 [main] INFO  org.example.Main - Первый
+2025-03-31 21:41:47.013 [main] INFO  org.example.Main - второй
+2025-03-31 21:41:47.013 [main] INFO  org.example.Main - третий
+2025-03-31 21:41:47.013 [main] INFO  org.example.Main - четвертый
+2025-03-31 21:41:47.014 [main] INFO  org.example.Main - пятый
+2025-03-31 21:41:47.014 [main] INFO  org.example.Main - Первый элемент: пятый
+2025-03-31 21:41:47.014 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:41:47.015 [main] INFO  org.example.Main - Один
+2025-03-31 21:41:47.015 [main] INFO  org.example.Main - Четыре
+2025-03-31 21:41:47.015 [main] INFO  org.example.Main - Пять
+2025-03-31 21:41:47.015 [main] INFO  org.example.Main - Три
+2025-03-31 21:41:47.015 [main] INFO  org.example.Main - Два
+2025-03-31 21:48:16.884 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 21:48:16.886 [main] INFO  org.example.Main - Первый
+2025-03-31 21:48:16.886 [main] INFO  org.example.Main - второй
+2025-03-31 21:48:16.886 [main] INFO  org.example.Main - третий
+2025-03-31 21:48:16.886 [main] INFO  org.example.Main - четвертый
+2025-03-31 21:48:16.886 [main] INFO  org.example.Main - пятый
+2025-03-31 21:48:16.887 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 21:48:16.887 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:48:16.887 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 21:48:16.887 [main] INFO  org.example.Main - Первый
+2025-03-31 21:48:16.887 [main] INFO  org.example.Main - второй
+2025-03-31 21:48:16.888 [main] INFO  org.example.Main - третий
+2025-03-31 21:48:16.888 [main] INFO  org.example.Main - четвертый
+2025-03-31 21:48:16.888 [main] INFO  org.example.Main - пятый
+2025-03-31 21:48:16.888 [main] INFO  org.example.Main - Первый элемент: пятый
+2025-03-31 21:48:16.888 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:48:16.889 [main] INFO  org.example.Main - Один
+2025-03-31 21:48:16.889 [main] INFO  org.example.Main - Четыре
+2025-03-31 21:48:16.889 [main] INFO  org.example.Main - Пять
+2025-03-31 21:48:16.889 [main] INFO  org.example.Main - Три
+2025-03-31 21:48:16.889 [main] INFO  org.example.Main - Два
+2025-03-31 21:48:16.889 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:48:16.889 [main] INFO  org.example.Main - Один
+2025-03-31 21:48:16.890 [main] INFO  org.example.Main - Четыре
+2025-03-31 21:48:16.890 [main] INFO  org.example.Main - Пять
+2025-03-31 21:48:16.890 [main] INFO  org.example.Main - Три
+2025-03-31 21:48:16.890 [main] INFO  org.example.Main - Два
+2025-03-31 21:48:51.746 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 21:48:51.749 [main] INFO  org.example.Main - Первый
+2025-03-31 21:48:51.749 [main] INFO  org.example.Main - второй
+2025-03-31 21:48:51.749 [main] INFO  org.example.Main - третий
+2025-03-31 21:48:51.749 [main] INFO  org.example.Main - четвертый
+2025-03-31 21:48:51.749 [main] INFO  org.example.Main - пятый
+2025-03-31 21:48:51.750 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 21:48:51.750 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:48:51.750 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 21:48:51.750 [main] INFO  org.example.Main - Первый
+2025-03-31 21:48:51.751 [main] INFO  org.example.Main - второй
+2025-03-31 21:48:51.751 [main] INFO  org.example.Main - третий
+2025-03-31 21:48:51.751 [main] INFO  org.example.Main - четвертый
+2025-03-31 21:48:51.751 [main] INFO  org.example.Main - пятый
+2025-03-31 21:48:51.751 [main] INFO  org.example.Main - Первый элемент: пятый
+2025-03-31 21:48:51.751 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:48:51.751 [main] INFO  org.example.Main - HashSet///////////////////////////////////////////////////////
+2025-03-31 21:48:51.752 [main] INFO  org.example.Main - Один
+2025-03-31 21:48:51.752 [main] INFO  org.example.Main - Четыре
+2025-03-31 21:48:51.752 [main] INFO  org.example.Main - Пять
+2025-03-31 21:48:51.752 [main] INFO  org.example.Main - Три
+2025-03-31 21:48:51.752 [main] INFO  org.example.Main - Два
+2025-03-31 21:48:51.752 [main] INFO  org.example.Main - LinkedHashSet///////////////////////////////////////////////////////
+2025-03-31 21:48:51.753 [main] INFO  org.example.Main - Один
+2025-03-31 21:48:51.753 [main] INFO  org.example.Main - Четыре
+2025-03-31 21:48:51.753 [main] INFO  org.example.Main - Пять
+2025-03-31 21:48:51.753 [main] INFO  org.example.Main - Три
+2025-03-31 21:48:51.753 [main] INFO  org.example.Main - Два
+2025-03-31 21:50:07.967 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 21:50:07.969 [main] INFO  org.example.Main - Первый
+2025-03-31 21:50:07.969 [main] INFO  org.example.Main - второй
+2025-03-31 21:50:07.969 [main] INFO  org.example.Main - третий
+2025-03-31 21:50:07.969 [main] INFO  org.example.Main - четвертый
+2025-03-31 21:50:07.969 [main] INFO  org.example.Main - пятый
+2025-03-31 21:50:07.970 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 21:50:07.970 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:50:07.970 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 21:50:07.970 [main] INFO  org.example.Main - Первый
+2025-03-31 21:50:07.970 [main] INFO  org.example.Main - второй
+2025-03-31 21:50:07.970 [main] INFO  org.example.Main - третий
+2025-03-31 21:50:07.970 [main] INFO  org.example.Main - четвертый
+2025-03-31 21:50:07.970 [main] INFO  org.example.Main - пятый
+2025-03-31 21:50:07.971 [main] INFO  org.example.Main - Первый элемент: пятый
+2025-03-31 21:50:07.971 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:50:07.971 [main] INFO  org.example.Main - HashSet///////////////////////////////////////////////////////
+2025-03-31 21:50:07.971 [main] INFO  org.example.Main - Один
+2025-03-31 21:50:07.971 [main] INFO  org.example.Main - Четыре
+2025-03-31 21:50:07.971 [main] INFO  org.example.Main - Пять
+2025-03-31 21:50:07.971 [main] INFO  org.example.Main - Три
+2025-03-31 21:50:07.971 [main] INFO  org.example.Main - Два
+2025-03-31 21:50:07.972 [main] INFO  org.example.Main - LinkedHashSet///////////////////////////////////////////////////////
+2025-03-31 21:50:07.972 [main] INFO  org.example.Main - Один
+2025-03-31 21:50:07.972 [main] INFO  org.example.Main - Четыре
+2025-03-31 21:50:07.972 [main] INFO  org.example.Main - Пять
+2025-03-31 21:50:07.972 [main] INFO  org.example.Main - Три
+2025-03-31 21:50:07.972 [main] INFO  org.example.Main - Два
+2025-03-31 21:50:07.972 [main] INFO  org.example.Main - [Один, Четыре, Пять, Три, Два]
+2025-03-31 21:50:29.122 [main] INFO  org.example.Main - ArrayList:
+2025-03-31 21:50:29.124 [main] INFO  org.example.Main - Первый
+2025-03-31 21:50:29.125 [main] INFO  org.example.Main - второй
+2025-03-31 21:50:29.125 [main] INFO  org.example.Main - третий
+2025-03-31 21:50:29.125 [main] INFO  org.example.Main - четвертый
+2025-03-31 21:50:29.125 [main] INFO  org.example.Main - пятый
+2025-03-31 21:50:29.126 [main] INFO  org.example.Main - Первый элемент: Первый
+2025-03-31 21:50:29.126 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:50:29.126 [main] INFO  org.example.Main - LinkedList:
+2025-03-31 21:50:29.126 [main] INFO  org.example.Main - Первый
+2025-03-31 21:50:29.126 [main] INFO  org.example.Main - второй
+2025-03-31 21:50:29.127 [main] INFO  org.example.Main - третий
+2025-03-31 21:50:29.127 [main] INFO  org.example.Main - четвертый
+2025-03-31 21:50:29.127 [main] INFO  org.example.Main - пятый
+2025-03-31 21:50:29.127 [main] INFO  org.example.Main - Первый элемент: пятый
+2025-03-31 21:50:29.127 [main] INFO  org.example.Main - ///////////////////////////////////////////////////////
+2025-03-31 21:50:29.127 [main] INFO  org.example.Main - HashSet///////////////////////////////////////////////////////
+2025-03-31 21:50:29.128 [main] INFO  org.example.Main - Один
+2025-03-31 21:50:29.128 [main] INFO  org.example.Main - Четыре
+2025-03-31 21:50:29.128 [main] INFO  org.example.Main - Пять
+2025-03-31 21:50:29.128 [main] INFO  org.example.Main - Три
+2025-03-31 21:50:29.128 [main] INFO  org.example.Main - Два
+2025-03-31 21:50:29.128 [main] INFO  org.example.Main - LinkedHashSet///////////////////////////////////////////////////////
+2025-03-31 21:50:29.128 [main] INFO  org.example.Main - Пять
+2025-03-31 21:50:29.128 [main] INFO  org.example.Main - Два
+2025-03-31 21:50:29.129 [main] INFO  org.example.Main - Один
+2025-03-31 21:50:29.129 [main] INFO  org.example.Main - Четыре
+2025-03-31 21:50:29.129 [main] INFO  org.example.Main - Три
+2025-03-31 21:50:29.129 [main] INFO  org.example.Main - [Пять, Два, Один, Четыре, Три]
