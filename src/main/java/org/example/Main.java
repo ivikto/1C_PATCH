@@ -29,8 +29,6 @@ import org.springframework.stereotype.Component;
 @SpringBootApplication
 public class Main {
 
-    private static String auth = "ADM:O0Ju|yR?pG"; // Логин и пароль
-
     @Value("${login}")
     private String login;
     @Value("${pass}")
@@ -50,14 +48,11 @@ public class Main {
         this.encodedAuth = Base64.getEncoder().encodeToString(authInfo.getBytes(StandardCharsets.UTF_8));
     }
 
-
     public static void main(String[] args) throws IOException {
 
 
         String json = getRequest();
         patchRequest(json);
-
-
 
     }
 
